@@ -1,5 +1,4 @@
 /// <reference path="definitions/phaser.comments.d.ts"/>
-/// <reference path="state/Boot"/>
 
 module YoPhaser {
   export class Game extends Phaser.Game {
